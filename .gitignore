@@ -214,3 +214,4 @@ trip_debug*.json
 trip*.json
 osrm_cache/
 logs/
+*:Zone.Identifier
